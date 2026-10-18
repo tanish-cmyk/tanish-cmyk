@@ -36,8 +36,8 @@ Web Technologies
 
 📫 Connect With Me
 
-- 💼 LinkedIn: Add your LinkedIn profile link here
-- 📧 Email: Add your professional email here
+- 💼 LinkedIn: www.linkedin.com/in/tanish-pal-singh-6343a239
+- 📧 Email: tanishpalsingh325@gmail.com
 - 🌐 Portfolio: Add your portfolio website link here
 
 ---
