@@ -36,7 +36,7 @@ Web Technologies
 
 📫 Connect With Me
 
-- 💼 LinkedIn: www.linkedin.com/in/tanish-pal-singh-6343a239
+- 💼 LinkedIn: https://www.linkedin.com/in/tanish-pal-singh-6343a239b?utm_source=share_via&utm_content=profile&utm_medium=member_android
 - 📧 Email: tanishpalsingh325@gmail.com
 - 🌐 Portfolio: https://id-preview--afe1007d-0a20-4f8e-ab6a-602be849a6cc.lovable.app/
 
