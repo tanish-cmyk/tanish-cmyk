@@ -38,7 +38,7 @@ Web Technologies
 
 - 💼 LinkedIn: www.linkedin.com/in/tanish-pal-singh-6343a239
 - 📧 Email: tanishpalsingh325@gmail.com
-- 🌐 Portfolio: Add your portfolio website link here
+- 🌐 Portfolio: https://id-preview--afe1007d-0a20-4f8e-ab6a-602be849a6cc.lovable.app/
 
 ---
 
